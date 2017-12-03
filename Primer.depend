@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512245234 source:c:\users\alldocube\desktop\uczenia\cpp\primer\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+
